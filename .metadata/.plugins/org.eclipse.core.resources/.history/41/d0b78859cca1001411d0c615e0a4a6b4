@@ -1,0 +1,13 @@
+
+public class Learning {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int little = 2;
+		int big = 2000;
+		
+	}
+	
+
+
+}
